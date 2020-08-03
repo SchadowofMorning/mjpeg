@@ -22,6 +22,7 @@ http://channel9.msdn.com/coding4fun/articles/MJPEG-Decoder
 
 Changelog
 ---------
+v1.2.2  - added a nullcheck for a weird edgecase.
 v1.2.1
 	- WinRT fix so response streams are properly disposed
 	- The remaining assemblies remain at v1.2
